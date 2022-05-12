@@ -74,3 +74,14 @@ h1 {
     box-shadow: none;
 }
 
+.links {
+    position: inline-block;
+}
+.links button {
+    position: fixed;
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 80px;
+    width: 80px;
+    font-size: 60px;
+}

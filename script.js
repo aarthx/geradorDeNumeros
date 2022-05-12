@@ -27,3 +27,7 @@ function sorteia() {
 
     
 }
+
+function voltar() {
+    location.replace('https://aarthx.github.io/');
+}
